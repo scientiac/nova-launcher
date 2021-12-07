@@ -7,7 +7,7 @@
 
 ## Install
 
-All instructions can be found at [draculatheme.com/nova-launcher](https://draculatheme.com/nova-launcher).
+All instructions can be found at [draculatheme.com/nova-launcher](https://draculatheme.com/nova-launcher)or gemini://gemini.ctrl-c.club/~scientiac/log/dracula_nova.gmi .
 
 ## Team
 
